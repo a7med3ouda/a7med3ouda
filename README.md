@@ -75,4 +75,3 @@ Got a complex application to build or a scaling bottleneck to fix? Let’s map o
 
 - **Email:** hi@ahmedouda.dev
 - **LinkedIn:** [linkedin.com/in/a7med-3ouda](https://www.linkedin.com/in/a7med-3ouda/)
-- **GitHub:** [github.com/a7med3ouda](https://github.com/a7med3ouda)
