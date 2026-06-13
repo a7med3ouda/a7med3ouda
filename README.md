@@ -3,7 +3,7 @@
 **Senior Full-Stack & Mobile Engineer | Tech Lead** — Specializing in building high-performance real-time applications, multi-tenant architectures, and scalable platforms using SvelteKit, React/Next.js, Node.js, and .NET Core.
 
 📍 Cairo, Egypt · Available for clients in **Europe, MENA & beyond**  
-📧 hi@ahmedouda.dev · 💼 [LinkedIn](https://www.linkedin.com/in/a7med-3ouda/) · 🐙 [GitHub](https://github.com/a7med3ouda)
+📧 hi@ahmedouda.dev · 🌐 [Portfolio](https://ahmedouda.dev) · 💼 [LinkedIn](https://www.linkedin.com/in/a7med-3ouda/)
 
 ---
 
@@ -74,4 +74,5 @@ I'm the author of **[ByteSocket](https://github.com/a7med3ouda)** — a multi-en
 Got a complex application to build or a scaling bottleneck to fix? Let’s map out the right technical strategy.
 
 - **Email:** hi@ahmedouda.dev
+- **Portfolio:** [Portfolio](https://ahmedouda.dev)
 - **LinkedIn:** [linkedin.com/in/a7med-3ouda](https://www.linkedin.com/in/a7med-3ouda/)
